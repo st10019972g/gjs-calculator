@@ -1,4 +1,4 @@
-# Create README.md content
+#README
 content = """# GJS-Calculator
 **Basiese Python Sakrekenaar (Command Line Calculator)**
 
