@@ -50,15 +50,14 @@ The goal of the project is to demonstrate understanding of:
 
 The program repeatedly asks the user to select an operation:
 
-+  addition
--  subtraction
-*  multiplication
-/  division
-c  clear screen
-q  quit program
-
-
-The calculator only exits when the user enters `q`.
+| Key | Action |
+|----|------|
+| + | addition |
+| - | subtraction |
+| * | multiplication |
+| / | division |
+| c | clear screen |
+| q | quit program |
 
 ---
 
