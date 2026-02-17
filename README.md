@@ -1,6 +1,6 @@
-#README
-content = """# GJS-Calculator
-**Basiese Python Sakrekenaar (Command Line Calculator)**
+# README
+
+**Basic Command Line Calculator**
 
 A beginner-friendly command-line calculator written in Python.  
 The program performs basic calculator  operations and demonstrates core programming concepts such as functions, loops, validation, and structured program flow.
